@@ -1,6 +1,6 @@
 {
 "storeHouse":[	
-	{"sourceName": "gitcode.net仓库", "sourceUrl": "./TVBox/CK.txt"},
+	{"sourceName": "gitcode.net仓库", "sourceUrl": "https://gulihai.github.io/IPTV/TVBox/CK.txt"},
 	{"sourceName": "gitcode.net仓库", "sourceUrl": "https://gitcode.net/go/go/-/raw/o/ck_2.bin"},
 	{"sourceName":"gitlab.com仓库","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/duo.json"},
 	{"sourceName":"jsd.cdn.zzko.cn仓库","sourceUrl":"https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json"}
