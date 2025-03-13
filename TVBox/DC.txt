@@ -3,7 +3,6 @@
 	{"sourceName": "自己仓库", "sourceUrl": "https://gulihai.github.io/IPTV/TVBox/CK.txt" },
 	{"sourceName": "毒盒", "sourceUrl": "https://tv.youdu.fan:666" },
 	{"sourceName": "小盒子", "sourceUrl": "http://xhztv.top/tvbox.txt" },
-	{"sourceName": "番茄库吧（爱TV吧）", "sourceUrl": "http://giao.xn--kcr29o437a.top/cang" },
 	{"sourceName": "仓库名称", "sourceUrl": "仓库链接" }
 	
 	]	
