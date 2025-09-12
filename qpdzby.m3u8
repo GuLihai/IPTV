@@ -1,16 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 group-title="监控摄像头",镜头1
-rtsp://admin:GuLihai5211314@192.168.1.11:8554/Streaming/Channels/101
-
-#EXTINF:-1 group-title="监控摄像头",镜头2
-rtsp://admin:GuLihai5211314@192.168.1.11:8554/h264/ch1/main/av_stream
-
-#EXTINF:-1 group-title="监控摄像头",镜头3
-rtsp://admin:12345678@192.168.1.2:554/ cam/realmonitor? channel=1&subtype=0
-
-
-
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/央视频道/CCTV1.png" group-title="央视免费",CCTV-1 综合
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/央视频道/CCTV2.png" group-title="央视免费",CCTV-2 财经
@@ -56,6 +45,44 @@ http://120.234.5.29:6000/udp/239.21.0.108:3772
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/央视频道/CCTV4K.png" group-title="央视免费",CCTV-4K 超高清
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227516/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/央视频道/CCTV8K.png" group-title="央视免费",CCTV-8K 超高清
+
+
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/卫视频道/辽宁卫视.png" group-title="辽宁",辽宁卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
+#EXTINF:-1 tvg-id="6006" tvg-name="辽宁北方" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁北方.png" group-title="辽宁",辽宁北方
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
+#EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁都市.png" group-title="辽宁",辽宁都市
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
+#EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁公共.png" group-title="辽宁",辽宁公共
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁教育青少" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁教育青少.png" group-title="辽宁",辽宁教育青少
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
+#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁经济.png" group-title="辽宁",辽宁经济
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
+#EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁生活.png" group-title="辽宁",辽宁生活
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
+#EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁体育.png" group-title="辽宁",辽宁体育休闲
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁宜家购物" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁宜家购物.png" group-title="辽宁",辽宁宜家购物
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8
+#EXTINF:-1 tvg-id=""  tvg-name="辽宁移动电视" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁移动电视.png" group-title="辽宁",辽宁移动电视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
+#EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁影视.png" group-title="辽宁",辽宁影视剧
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
+#EXTINF:-1 tvg-id="6009" tvg-name="沈阳新闻" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/沈阳新闻综合.png" group-title="辽宁",沈阳新闻综合
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226895/index.m3u8
+#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/新动漫.png" group-title="辽宁",新动漫
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
+#EXTINF:-1 tvg-id="00" tvg-name="家庭理财" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/家庭理财.png" group-title="辽宁",家庭理财
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
+#EXTINF:-1 tvg-id="00" tvg-name="盘锦都市" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/盘锦都市.png" group-title="辽宁",盘锦都市
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227495/index.m3u8
+#EXTINF:-1 tvg-id="00" tvg-name="阜新综合" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/阜新综合.png" group-title="辽宁",阜新综合 SD
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227407/index.m3u8
+#EXTINF:-1 tvg-id="00" tvg-name="阜新教育" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/阜新教育.png" group-title="辽宁",阜新教育 SD
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227498/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/央视频道/CHC动作电影.png" group-title="央视付费",CHC动作电影
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
@@ -212,42 +239,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226816/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227047/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/卫视频道/浙江卫视.png" group-title="卫视",浙江卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226795/index.m3u8
-
-
-#EXTINF:-1 tvg-id="6006" tvg-name="辽宁北方" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁北方.png" group-title="辽宁",辽宁北方
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226755/index.m3u8
-#EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁都市.png" group-title="辽宁",辽宁都市
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226760/index.m3u8
-#EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁公共.png" group-title="辽宁",辽宁公共
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226766/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁教育青少" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁教育青少.png" group-title="辽宁",辽宁教育青少
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226763/index.m3u8
-#EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁经济.png" group-title="辽宁",辽宁经济
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226735/index.m3u8
-#EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁生活.png" group-title="辽宁",辽宁生活
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226761/index.m3u8
-#EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁体育.png" group-title="辽宁",辽宁体育休闲
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226764/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="辽宁宜家购物" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁宜家购物.png" group-title="辽宁",辽宁宜家购物
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226884/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-name="辽宁移动电视" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁移动电视.png" group-title="辽宁",辽宁移动电视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
-#EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/辽宁影视.png" group-title="辽宁",辽宁影视剧
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226738/index.m3u8
-#EXTINF:-1 tvg-id="6009" tvg-name="沈阳新闻" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/沈阳新闻综合.png" group-title="辽宁",沈阳新闻综合
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226895/index.m3u8
-#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/新动漫.png" group-title="辽宁",新动漫
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
-#EXTINF:-1 tvg-id="00" tvg-name="家庭理财" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/家庭理财.png" group-title="辽宁",家庭理财
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
-#EXTINF:-1 tvg-id="00" tvg-name="阜新综合" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/阜新综合.png" group-title="辽宁",阜新综合 SD
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227407/index.m3u8
-#EXTINF:-1 tvg-id="00" tvg-name="盘锦都市" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/盘锦都市.png" group-title="辽宁",盘锦都市
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227495/index.m3u8
-#EXTINF:-1 tvg-id="00" tvg-name="阜新教育" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/阜新教育.png" group-title="辽宁",阜新教育 SD
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227498/index.m3u8
-#EXTINF:-1 tvg-id="00" tvg-name="阜新教育1" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/地方频道/辽宁/阜新教育1.png" group-title="辽宁",阜新教育1 SD
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/322122759/index.m3u8
 
 
 #EXTINF:-1 tvg-id="00" tvg-name="NewTV精品大剧" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/NewTV 未来电视/NewTV精品大剧.png" group-title="NewTV 未来电视",NewTV  精品大剧
@@ -553,67 +544,6 @@ https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d1
 https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 
 
-
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱电竞" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱电竞.png" group-title="iHOT频道",iHOT 爱科幻
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱谍战" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱谍战.png" group-title="iHOT频道",iHOT 爱科学
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱动漫" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱动漫.png" group-title="iHOT频道",iHOT 爱浪漫
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱怀旧" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱怀旧.png" group-title="iHOT频道",iHOT 爱历史
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱经典" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱经典.png" group-title="iHOT频道",iHOT 爱旅行
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱科幻" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱科幻.png" group-title="iHOT频道",iHOT 爱奇谈
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱科学" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱科学.png" group-title="iHOT频道",iHOT 爱青春
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱浪漫" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱浪漫.png" group-title="iHOT频道",iHOT 爱赛车
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱历史" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱历史.png" group-title="iHOT频道",iHOT 爱体育
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱旅行" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱旅行.png" group-title="iHOT频道",iHOT 爱玩具
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱奇谈" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱奇谈.png" group-title="iHOT频道",iHOT 爱喜剧
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱青春" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱青春.png" group-title="iHOT频道",iHOT 爱悬疑
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱赛车" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱赛车.png" group-title="iHOT频道",iHOT 爱院线
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱体育" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱体育.png" group-title="iHOT频道",iHOT 爱都市
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱玩具" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱玩具.png" group-title="iHOT频道",iHOT 爱极限
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱喜剧" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱喜剧.png" group-title="iHOT频道",iHOT 爱家庭
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱悬疑" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱悬疑.png" group-title="iHOT频道",iHOT 爱江湖
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱院线" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱院线.png" group-title="iHOT频道",iHOT 爱解密
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱都市" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱都市.png" group-title="iHOT频道",iHOT 爱猎奇
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱极限" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱极限.png" group-title="iHOT频道",iHOT 爱美食
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱家庭" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱家庭.png" group-title="iHOT频道",iHOT 爱幼教
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱江湖" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱江湖.png" group-title="iHOT频道",iHOT 爱时尚
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱解密" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱解密.png" group-title="iHOT频道",iHOT 爱娱乐
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱猎奇" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱猎奇.png" group-title="iHOT频道",iHOT 爱世界
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱美食" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱美食.png" group-title="iHOT频道",iHOT 爱探索
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱幼教" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱幼教.png" group-title="iHOT频道",
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱时尚" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱时尚.png" group-title="iHOT频道",
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱娱乐" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱娱乐.png" group-title="iHOT频道",
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱世界" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱世界.png" group-title="iHOT频道",
-
-#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱探索" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱探索.png" group-title="iHOT频道",
 
 
 #EXTINF:-1 tvg-name="睛彩竞技" group-title="睛彩频道",睛彩竞技
@@ -1256,8 +1186,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227302/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227305/index.m3u8
 #EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",咪咕视频_68
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227308/index.m3u8
-#EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",咪咕视频_69
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",咪咕视频_70
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227317/index.m3u8
 #EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",咪咕视频_71
@@ -1284,8 +1212,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227384/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227387/index.m3u8
 #EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",咪咕视频_82
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227390/index.m3u8
-#EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",咪咕视频_83 4K
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",咪咕视频_84
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227406/index.m3u8
 #EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",咪咕视频_85
@@ -1308,6 +1234,72 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
 #EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",至臻视界 4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
+#EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",咪咕视频_69 4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/移动咪咕/移动咪咕.png" group-title="移动咪咕",咪咕视频_83 4K
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱电竞" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱电竞.png" group-title="iHOT频道",iHOT 爱科幻
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱谍战" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱谍战.png" group-title="iHOT频道",iHOT 爱科学
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱动漫" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱动漫.png" group-title="iHOT频道",iHOT 爱浪漫
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱怀旧" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱怀旧.png" group-title="iHOT频道",iHOT 爱历史
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱经典" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱经典.png" group-title="iHOT频道",iHOT 爱旅行
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱科幻" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱科幻.png" group-title="iHOT频道",iHOT 爱奇谈
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱科学" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱科学.png" group-title="iHOT频道",iHOT 爱青春
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱浪漫" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱浪漫.png" group-title="iHOT频道",iHOT 爱赛车
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱历史" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱历史.png" group-title="iHOT频道",iHOT 爱体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱旅行" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱旅行.png" group-title="iHOT频道",iHOT 爱玩具
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱奇谈" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱奇谈.png" group-title="iHOT频道",iHOT 爱喜剧
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱青春" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱青春.png" group-title="iHOT频道",iHOT 爱悬疑
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱赛车" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱赛车.png" group-title="iHOT频道",iHOT 爱院线
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱体育" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱体育.png" group-title="iHOT频道",iHOT 爱都市
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱玩具" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱玩具.png" group-title="iHOT频道",iHOT 爱极限
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱喜剧" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱喜剧.png" group-title="iHOT频道",iHOT 爱家庭
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱悬疑" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱悬疑.png" group-title="iHOT频道",iHOT 爱江湖
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱院线" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱院线.png" group-title="iHOT频道",iHOT 爱解密
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱都市" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱都市.png" group-title="iHOT频道",iHOT 爱猎奇
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱极限" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱极限.png" group-title="iHOT频道",iHOT 爱美食
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱家庭" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱家庭.png" group-title="iHOT频道",iHOT 爱幼教
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱江湖" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱江湖.png" group-title="iHOT频道",iHOT 爱时尚
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱解密" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱解密.png" group-title="iHOT频道",iHOT 爱娱乐
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱猎奇" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱猎奇.png" group-title="iHOT频道",iHOT 爱世界
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱美食" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱美食.png" group-title="iHOT频道",iHOT 爱探索
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱幼教" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱幼教.png" group-title="iHOT频道",
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱时尚" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱时尚.png" group-title="iHOT频道",
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱娱乐" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱娱乐.png" group-title="iHOT频道",
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱世界" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱世界.png" group-title="iHOT频道",
+
+#EXTINF:-1 tvg-id="00" tvg-name="iHOT 爱探索" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/iHOT频道/iHOT 爱探索.png" group-title="iHOT频道",
 
 
 
@@ -1349,3 +1341,11 @@ http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gulihai.github.io/IPTV/TV-Logo/熊猫频道/熊猫频道.png" group-title="熊猫频道",都江堰高清
 http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
+
+
+#EXTINF:-1 group-title="监控系统",镜头1
+rtsp://admin:GuLihai5211314@192.168.1.11:8554/Streaming/Channels/101
+#EXTINF:-1 group-title="监控系统",镜头2
+rtsp://admin:GuLihai5211314@192.168.1.11:8554/h264/ch1/main/av_stream
+#EXTINF:-1 group-title="监控系统",镜头3
+rtsp://admin:12345678@192.168.1.2:554/ cam/realmonitor? channel=1&subtype=0
