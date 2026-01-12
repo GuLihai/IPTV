@@ -1,9 +1,10 @@
 {
 "storeHouse":[
-	{"sourceName": "自己仓库", "sourceUrl": "https://gulihai.github.io/IPTV/TVBox/CK.txt" },
-	{"sourceName": "毒盒", "sourceUrl": "https://tv.youdu.fan:666" },
-	{"sourceName": "小盒子", "sourceUrl": "http://xhztv.top/tvbox.txt" },
-	{"sourceName": "仓库名称", "sourceUrl": "仓库链接" }
-	
+	{"sourceName":"自己仓库","sourceUrl":"https://gulihai.github.io/IPTV/TVBox/CK.txt"},
+	{"sourceName":"装逼1","sourceUrl":"https://xn--osso-wn6lw489o.v.nxog.top/nxog/oua.php?b=os装🅱so"},
+	{"sourceName":"装逼2","sourceUrl":"https://by1.nxog.eu.org/nxog/oum.php?b=os装🅱so"},
+	{"sourceName":"装逼3","sourceUrl":"https://by2.nxog.eu.org/nxog/ouw.php?b=os装🅱so"},
+	{"sourceName":"仓库名称","sourceUrl":"仓库链接"}
+
 	]	
 }		
